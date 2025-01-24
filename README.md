@@ -36,8 +36,8 @@ A estrutura do projeto está organizada em pastas para facilitar o uso e a repli
 ### 1. Clonar o Repositório
 Clone este repositório em sua máquina local:
 ```bash
-git clone https://github.com/seu-usuario/AnaliseDeDados-PequenosNegocios.git
-cd AnaliseDeDados-PequenosNegocios
+git@github.com:BrunoHoinacki/Analise-de-dados-pequenas-empresas.git
+cd Analise-de-dados-pequenas-empresas
 ```
 
 ### 2. Requisitos
